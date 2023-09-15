@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python and c-programming projects**
 
-- My Projects [https://github.com/anshhh29/GymManagement-Etrainer/tree/main](https://github.com/anshhh29/GymManagement-Etrainer/tree/main)
+- My Projects [https://github.com/anshhh29/Projects](https://github.com/anshhh29/Projects)
 
 - 📫 How to reach me **anshpopli29@gmail.com**
 
