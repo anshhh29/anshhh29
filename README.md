@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshhh29&label=Profile%20views&color=0e75b6&style=flat" alt="anshhh29" /> </p>
 
-- 🌱 I’m currently learning **Javascript, node and react js**
-
-- 👯 I’m looking to collaborate on **Python and c-programming projects**
-
 - My Projects [https://github.com/anshhh29/Projects](https://github.com/anshhh29/Projects)
 
 - 📫 How to reach me **anshpopli29@gmail.com**
